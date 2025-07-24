@@ -2,65 +2,61 @@
 <h3 align="center">Securing the Future, One Intelligent System at a Time 🛡️🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&width=1000&center=true&lines=Cybersecurity+%F0%9F%94%91+%7C+AI+%F0%9F%A7%A0+%7C+Web+Dev+%F0%9F%92%BB;SDG+Innovation+%7C+Change+Agent+in+Tech;Passionate+Learner+%7C+Future+Builder+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&#x26;pause=1000&#x26;color=00FEEF&#x26;width=1000&#x26;center=true&#x26;lines=Cybersecurity+%F0%9F%94%91+%7C+AI+%F0%9F%A7%A0+%7C+Web+Dev+%F0%9F%92%BB;SDG+Innovation+%7C+Global+Tech+Leader;Passionate+Learner+%7C+Future+Innovator+%F0%9F%92%BC" alt="Typing SVG"/>
 </p>
 
 ---
 
 ### 🧠 Who Am I? (About Me)
 
-Hi! I'm **Charles**, a passionate dreamer, relentless learner, and a digital builder on a mission to **secure** and **elevate the world using tech**.
+Hi! I'm Charles, a Computer Science student and aspiring Cybersecurity + AI expert starting my tech journey. I'm a passionate dreamer and relentless learner on a mission to secure and elevate the world through intelligent technology.
 
-🔐 I'm diving deep into the world of **Cybersecurity**, learning how to outsmart threats, protect systems, and build digital trust.
+🔐 I'm diving deep into Cybersecurity, learning to outsmart threats, secure systems, and build digital trust.
+🧠 I'm curious about Artificial Intelligence, exploring how machines can detect threats and drive innovation.
+🌐 I'm also interested in modern full-stack web development, aiming to build sleek, secure apps.
+🌍 Beyond tech, I'm passionate about global transformation through my future project, SDG Connect, a platform to unite youth, tech, and Sustainable Development Goals (SDGs).
 
-🧠 I’m equally obsessed with **Artificial Intelligence** how machines learn, think, and can be designed to do good for people and the planet.
-
-🌐 I also have Interest in **modern full stack web development**, able to build sleek, scalable, high-performance websites and apps using today’s top tools and frameworks.
-
-🌍 And beyond tech? I’m passionate about **global transformation**, and I'm building a project called **SDG Connect**  a platform to bring together innovation, youth energy, and digital     tools to accelerate the **Sustainable Development Goals (SDGs)**.
-
-This journey isn’t just about mastering tech. It’s about becoming the kind of creator the future needs.**.
+This journey is about becoming the creator the future needs.**.
 
 ---
 
 ### 🚀 My Goal
 
-> To become an **amazing Cybersecurity + AI expert**, building **intelligent, secure, and sustainable systems** that **defend, empower, and inspire**  all while helping others grow and contribute to a safer digital future.
+To become an amazing Cybersecurity + AI expert, building intelligent, secure, and sustainable systems that defend, empower, and inspire, while launching a tech startup for global impact.
 
 ---
 
 ### 🔥 What I’m Working On
 
 
-🤖 Exploring the powerful intersection of AI and cybersecurity , how AI is revolutionizing threat detection, automating response, powering SOCs, and how security is critical in keeping AI models and data safe
+🤖 Exploring the intersection of AI and Cybersecurity, learning how AI powers          threat detection and automation.
+⚙️ Laying the groundwork for SDG Connect, a future platform for sustainable tech      innovation.
+🧠 Studying Python and ML basics (e.g., spam detection) to build AI-driven             security tools.
+🕵️‍♂️ Learning networking and vulnerabilities (e.g., CVEs) to understand and defend       systems.
+📚 Practicing on TryHackMe and Kaggle to gain hands-on skills.
 
-⚙️ Building SDG Connect , a web platform connecting tech, youth, and sustainable development to drive real impact
-
-🧠 Learning about Natural Language Processing (NLP) to analyze and classify security-related text data
-
-🕵️‍♂️ Studying vulnerabilities and CVEs to understand how systems are breached  and how to defend them
-
-📚 Following trends in AI safety, SOC automation, and threat intelligence to stay ahead of the curve
-
-💡 Documenting my journey from curious learner to builder , sharing every milestone on GitHub & LinkedIn
+💡 Documenting my journey on GitHub, X, and LinkedIn to connect and inspire.
 
 
 ---
 
 ### 🛠️ Tech Toolbox
-Languages & Frameworks <br>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,nextjs,nodejs,express,tailwind" />
 
-Databases & APIs <br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,graphql" />
+Languages & Frameworks
 
-Cybersecurity & System Tools <br>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git" />
+<img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=typescript" /> <img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=nextjs" /> <img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=express" /> <img src="https://skillicons.dev/icons?i=tailwind" /> <br>
 
-<p align="left"> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-400080?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=nmap&logoColor=white" /> </p>
+Databases & APIs
+
+<img src="https://skillicons.dev/icons?i=mongodb" /> <img src="https://skillicons.dev/icons?i=postgres" /> <img src="https://skillicons.dev/icons?i=graphql" /> <br>
+
+Cybersecurity & System Tools
+
+<img src="https://skillicons.dev/icons?i=linux" /> <img src="https://skillicons.dev/icons?i=bash" /> <img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-400080?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=nmap&logoColor=white" /> <br>
+
 AI & Machine Learning Tools
 
-<p align="left"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" /> </p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" /> <br>
 
 
 
@@ -69,11 +65,11 @@ AI & Machine Learning Tools
 ### 📊 My GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesKariuki-001&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKariuki-001&layout=compact&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CharlesKariuki-001&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
