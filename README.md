@@ -7,14 +7,14 @@
 
 ---
 
-### 🧠 Who Am I? (About Me)
+### 🧠 Who Am I? 
 
 Hi! I'm Charles, a Computer Science student and aspiring Cybersecurity + AI expert at the start of my tech journey. I’m a passionate dreamer and relentless learner on a mission to secure and elevate the world through intelligent technology.
 
-🔐 Cybersecurity: I’m learning to outsmart threats, secure systems, and build digital trust.
-🤖 Artificial Intelligence: I’m exploring how AI can power smarter threat detection, automation, and innovation.
-🌐 Software & Web Development: I’m practicing full-stack development to create sleek, scalable, and secure applications.
-🌍 Global Impact: I’m working toward SDG Connect, a future platform that unites youth, technology, and the Sustainable Development Goals (SDGs) to solve real problems.
+-🔐 Cybersecurity: I’m learning to outsmart threats, secure systems, and build digital trust.
+-🤖 Artificial Intelligence: I’m exploring how AI can power smarter threat detection, automation, and innovation.
+-🌐 Software & Web Development: I’m practicing full-stack development to create sleek, scalable, and secure applications.
+-🌍 Global Impact systems
 
 For me, tech isn’t just about code, it’s about building systems that defend, empower, and inspire people, now and in the future.
 
