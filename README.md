@@ -2,7 +2,7 @@
 <h3 align="center">Architecting Tomorrow's World: Where Intelligence Ignites Impact and Security Forges Resilience 🌐🔮</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&#x26;pause=1000&#x26;color=00FEEF&#x26;width=1000&#x26;center=true&#x26;lines=Cybersecurity+%F0%9F%94%91+%7C+AI+%F0%9F%A7%A0+%7C+Software Engineering+%F0%9F%92%BB;Impactful+Innovation+%7C+Global+Tech+Visionary;Relentless+Learner+%7C+Future+Architect+%F0%9F%92%BC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&#x26;pause=1000&#x26;color=00FEEF&#x26;width=1000&#x26;center=true&#x26;lines=Cybersecurity+%F0%9F%94%91+%7C+AI+%F0%9F%A7%A0+%7C+SoftwareEngineering+%F0%9F%92%BB;Impactful+Innovation+%7C+Global+Tech+Visionary;Relentless+Learner+%7C+Future+Architect+%F0%9F%92%BC" alt="Typing SVG"/>
 </p>
 
 ---
