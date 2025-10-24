@@ -30,15 +30,13 @@ Weekly commits keep the fire lit; always prototyping something that could scale 
 ---
 ### 🛠 Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,react,nextjs,nodejs,express,flask,django,html,css,mongo,postgres,graphql,firebase,numpy,pandas,scikit-learn,jupyter,nltk,spacy" alt="Core Stack" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,react,nextjs,nodejs,express,flask,django,html,css,numpy,pandas,scikit-learn,jupyter,matplotlib,nltk,spacy" alt="Core Stack" height="40" />
   <br><br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> 
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Optuna-FF6B35?style=for-the-badge&logo=optuna&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Featuretools-4B8BBE?style=for-the-badge&logo=featuretools&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kali,metasploit,wireshark,nmap,virtualbox,vmware,burp" alt="Cyber Tools" height="40" />
   <br><br>
@@ -47,7 +45,9 @@ Weekly commits keep the fire lit; always prototyping something that could scale 
   <img src="https://img.shields.io/badge/Google%20Colab-FEE71C?style=for-the-badge&logo=googlecolab&logoColor=000" /> 
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> 
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vs-code&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/venv-0C4B33?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Venv-0C4B33?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/UCI%20Repo-FF6B35?style=for-the-badge&logo=data&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/REST%20APIs-4B8BBE?style=for-the-badge&logo=apirest&logoColor=white" />
 </p>
 
 ---
