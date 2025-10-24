@@ -34,10 +34,6 @@ To become an extraordinary Cybersecurity + AI architect, crafting intelligent, s
 
 🌍 **Impact Projects** – Architecting purpose-driven initiatives that tackle real-world challenges, from environmental stewardship to social equity, blending tech with empathy for lasting transformation.
 
-📈 Business IT Essentials – Crafting a dynamic blueprint of strategic tech integrations, entrepreneurial frameworks, and value-driven innovations, adapting with every shift in the marketplace's digital pulse.
-
-📚 **Computer Science Foundations** – Curating a living archive of algorithmic insights, theoretical breakthroughs, and computational wisdom, evolving with every discovery in the vast realm of knowledge.
-
 🛠 **Exploratory Projects** – Fueling creativity through diverse experiments, rapid prototypes, and serendipitous builds that spark joy, uncover hidden potentials, and fuel uncharted adventures.
 
 ---
@@ -79,9 +75,9 @@ To become an extraordinary Cybersecurity + AI architect, crafting intelligent, s
   <a href="https://x.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" /></a> 
   <a href="https://facebook.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> 
   <a href="https://instagram.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
-  <a href="https://tiktok.com/@yourhandle" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a> 
+ 
 </p>
 
 <p align="center"> 
-  💭 *"I'm not just building software, I'm forging a legacy where **intelligence, resilience, and purpose** converge to redefine possibility."* 
+  💭 *I'm not just building software, I'm forging a legacy where **intelligence, resilience, and purpose** converge to redefine possibility.* 
 </p>
