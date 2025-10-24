@@ -29,25 +29,72 @@ Weekly commits keep the fire lit; always prototyping something that could scale 
 
 ---
 ### 🛠 Tech Arsenal
+#### AI-Core (ML Foundations & Deep Learning)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,react,nextjs,nodejs,express,flask,django,html,css,numpy,pandas,scikit-learn,jupyter,matplotlib,nltk,spacy" alt="Core Stack" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,scikit-learn,matplotlib" alt="AI Basics" height="40" />
   <br><br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> 
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" /> 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+#### CyberShield (Pentesting & Defense)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,metasploit,wireshark,nmap,virtualbox,vmware" alt="Cyber Tools" height="40" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kali,metasploit,wireshark,nmap,virtualbox,vmware,burp" alt="Cyber Tools" height="40" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-800080?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+
+#### EngiForge (Fullstack & Design)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,tailwind,docker,git,github" alt="SE Stack" height="40" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,githubactions,circleci,postman" alt="Cloud/DevOps" height="40" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+#### SecureAI-Fusion (AI-Cyber Intersections)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,scikit-learn,pandas,linux,docker" alt="Fusion Tools" height="40" />
+  <br><br>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+#### ImpactForge (Equity & SDG Builds)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,pandas,scikit-learn,react,vercel" alt="Impact Stack" height="40" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Streamlit-FE4C59?style=for-the-badge&logo=streamlit&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+#### AcademicForge (Labs to MVPs)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,postgres,mysql,graphql,firebase" alt="Academic Tools" height="40" />
+  <br><br>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vs-code&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+#### ProjectHaven (Experiments & Gigs)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,supabase,postman,circleci" alt="Versatile Stack" height="40" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</p>
+
+#### Free Essentials (Across All)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,githubactions" alt="Cloud/DevOps" height="40" />
   <br><br>
   <img src="https://img.shields.io/badge/Google%20Colab-FEE71C?style=for-the-badge&logo=googlecolab&logoColor=000" /> 
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vs-code&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Venv-0C4B33?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/UCI%20Repo-FF6B35?style=for-the-badge&logo=data&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/REST%20APIs-4B8BBE?style=for-the-badge&logo=apirest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Venv-0C4B33?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
