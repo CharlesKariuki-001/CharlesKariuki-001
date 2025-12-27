@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Charles Kariuki, a dedicated builder at the intersection of **Cybersecurity, Artificial Intelligence, and Software Engineering**. With a **Diploma in Business Information Technology** and pursuing a degree in Computer Science, I specialize in designing resilient, scalable systems that harness AI for threat detection, secure data management, and innovative solutions tailored to emerging markets.  
+I'm Charles Kariuki, a dedicated builder at the intersection of **Cybersecurity, Artificial Intelligence, and Software Engineering**. With skills in *** Business Information Technology** and currently pursuing  Computer Science, I specialize in designing resilient, scalable systems that harness AI for threat detection, secure data management, and innovative solutions tailored to emerging markets.  
 
 My expertise lies in:
 
@@ -147,5 +147,5 @@ I'm an active contributor to open-source in **AI ethics, cybersecurity, and sust
 ---
 
 <p align="center">
-  💡 "Innovation isn't about perfection—it's about persistence, purpose, and pushing boundaries to create resilient futures."
+  💡 "Innovation isn't about perfection, it's about persistence, purpose, and pushing boundaries to create resilient futures."
 </p>
