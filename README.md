@@ -1,74 +1,139 @@
-<h1 align="center">Hey, I'm Charles 👋</h1>
-<h3 align="center">Architecting Tomorrow's World: Where Intelligence Ignites Impact and Security Forges Resilience 🌐</h3>
+# 👋 Charles Kariuki  
+### Architecting Secure, Intelligent Systems for Global Impact 🌐  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&width=1000&center=true&lines=Cybersecurity+%F0%9F%94%91+%7C+AI+%F0%9F%A7%A0+%7C+SoftwareEngineering+%F0%9F%92%BB;Impactful+Innovation+%7C+Global+Tech+Visionary;Relentless+Learner+%7C+Future+Architect+%F0%9F%92%BC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI+%7C+Software+Engineering;Building+Resilient+Systems+for+Real-World+Impact;Secure+Code.+Intelligent+Systems.+Global+Scale." alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 Quick Intro
-Hey! I'm Charles a hands-on builder chasing the sweet spot where AI sparks breakthroughs, cyber locks down threats, and software scales dreams into reality. Tech's my canvas: I craft systems that don't just run, they *lift* secure, smart, and built for real change. From anomaly-hunting models to zero-trust apps, I'm all in on turning "what if" into "watch this."
+## 👨‍💻 About Me
 
-My north star? Evolving into a Cybersecurity + AI architect, launching ventures that blend code with purpose to drive global good.
+I'm **Charles**, a passionate builder at the intersection of **Cybersecurity**, **Artificial Intelligence**, and **Software Engineering**.  
+With a foundation in **Business Information Technology** and ongoing studies in **Computer Science**, I design **resilient, scalable, and intelligent systems** that solve real-world challenges—especially in **emerging markets**.
+
+I focus on:
+- 🔐 Secure system design  
+- 🤖 AI-powered threat detection  
+- 🌍 Impact-driven innovation  
+- 🧠 Turning complex ideas into deployable solutions  
+
+---
+
+## 🔥 Current Focus
+
+### 🤖 AI Innovations
+- Real-time anomaly detection models  
+- Predictive analytics in dynamic environments  
+- Bias mitigation and ethical AI tooling  
+
+### 🛡️ Cybersecurity Builds
+- Penetration testing tools  
+- Threat simulation scripts  
+- Secure network architecture experiments  
+
+### 🧩 Software Engineering
+- Modular, scalable system design  
+- Clean architectures & maintainable code  
+- Full-stack applications with secure data flows  
+
+### 🌱 Impact-Driven Prototypes
+- AI tools for sustainability & equity  
+- Predictive models for resource optimization  
+- Technology solutions for underserved regions  
+
+### 🎓 Academic & Experimental Labs
+- Capstone projects with AI + security layers  
+- Iterative prototypes bridging theory and deployment  
 
 ---
 
-### 🔥 Current Sparks
-Diving headfirst into builds that blend my passions here's the heat:
+## 🛠️ Tech Stack
 
-- **AI-Core**: Whipping up neural nets for predictive magic, like sentiment analyzers that flag toxic vibes in real-time chats.
-- **CyberSec**: Crafting pentest scripts and threat hunters, simulating breaches to bulletproof networks before they crack.
-- **S.Engineering**: Refactoring fullstack beasts with clean patterns think modular e-com backends that deploy like butter.
-- **Impact**: Prototyping equity tools, like bias auditors for fair hiring and climate predictors for underserved farmers.etc
-- **AcademicForg**: Blending foundational labs with capstone evolutions—secure fullstack MVPs infused with AI recs, revived classics laced in cyber twists, and weekly prototypes chronicling the grind from idea to deploy.
+### Core AI & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+### Cloud, DevOps & Essentials
+<p>
+  <img src="https://skillicons.dev/icons?i=googlecloud,docker,git,github,linux" />
+</p>
+
+### Additional Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs,mongodb" />
+</p>
 
 ---
-### 🛠 Tech Arsenal
-#### AI-Core (ML Foundations & Deep Learning)
+
+## 📊 GitHub Stats & Insights
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,scikit-learn,matplotlib" alt="AI Basics" height="40" />
-  <br><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
 </p>
 
-
-
-#### Free Essentials (Across All)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,githubactions" alt="Cloud/DevOps" height="40" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Google%20Colab-FEE71C?style=for-the-badge&logo=googlecolab&logoColor=000" /> 
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Venv-0C4B33?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📈 GitHub Pulse
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesKariuki-001&theme=tokyonight" alt="Streak" /> 
-  <br /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKariuki-001&layout=compact&theme=tokyonight" alt="Top Langs" /> 
-  <br /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlesKariuki-001&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=CharlesKariuki-001&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+## 🏆 Achievements & Goals
+
+- ✅ Consistent contributions in AI & cybersecurity  
+- ✅ Open-source collaborations  
+- 🎯 Working toward certifications in Ethical Hacking & Machine Learning  
+- 🚀 Goal: 365-day commit streak & high-impact OSS contributions  
+
+---
+
+## 📌 Featured Repositories
+
+- **🔗 EngIntersect**  
+  Modular hub for AI–Cyber intersections with scalable engineering patterns  
+
+- **🔗 CyberForge**  
+  Vulnerability assessment & threat modeling tools  
+
+- **🔗 AIForge**  
+  ML classifiers and real-time predictive models  
+
+- **🔗 AcademicCodeForge**  
+  Academic labs evolved into deployable MVPs  
+
+- **🔗 ImpactPulse**  
+  Tech prototypes addressing global equity & sustainability challenges  
+
+> ⭐ Feel free to star or fork if something sparks your interest!
+
+---
+
+## 🌟 Contributions & Community
+
+- Active contributor in **AI ethics** & **cybersecurity** projects  
+- Recent PRs include ML pipeline optimizations & security audits  
+- Always open to **collaborations** and co-building impactful systems  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
-### 🌐 Let's Link Up
-<p align="left"> 
-  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> 
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-  <a href="https://x.com/Charl3s63356" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" /></a> 
-  <a href="https://facebook.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> 
-  <a href="https://www.instagram.com/charl3s._______/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:your.email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/YOUR_X"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
-<p align="center"> 
-  💭 I'm not just building software, I'm forging a legacy where 'intelligence, resilience, and purpose' converge to redefine possibility.
+---
+
+<p align="center">
+  💡 <em>"Innovation isn't about perfection—it's about persistence, purpose, and pushing boundaries to create resilient futures."</em>
 </p>
