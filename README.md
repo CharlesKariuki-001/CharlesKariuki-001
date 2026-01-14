@@ -1,4 +1,4 @@
-# 👋 Charles Mburu | TechMastery
+# 👋 Charles| TechMastery
 ### Architecting Secure, Ethical, and Intelligent Systems 🌍
 
 <p align="center">
