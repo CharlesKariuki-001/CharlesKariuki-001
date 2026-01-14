@@ -105,7 +105,7 @@ All flagship projects live in my organization:
 ---
 
 ## 🌱 Open Source & Community
-I contribute to open-source in **AI**, **cybersecurity**, and **ethical tech** — optimizing pipelines, collaborating on SDG projects, and mentoring in emerging communities.
+I contribute to open-source in **AI**, **cybersecurity**, and **ethical tech**   optimizing pipelines, collaborating on SDG projects, and mentoring in emerging communities.
 
 Open to collaborations on impact-driven tools!
 
@@ -121,5 +121,5 @@ Open to collaborations on impact-driven tools!
 </p>
 
 <p align="center">
-  💡 <i>"Building technology that is ethical, impactful, and proudly African — persistence, purpose, and innovation every single day."</i>
+  💡 <i>"Building technology that is ethical, impactful, and proudly African ; persistence, purpose, and innovation every single day."</i>
 </p>
