@@ -97,7 +97,8 @@ All flagship projects live in my organization:
 - **[CyberForge](https://github.com/CharlesMburu-TechMastery/CyberForge)** — Hands-on cybersecurity lab with AI-driven experiments (Python)  
 - **[Software-Engineering](https://github.com/CharlesMburu-TechMastery/Software-Engineering)** — AI/ML innovation hub from basics to advanced deployment (Python)  
 - **[SDG-Aligned-Thinking](https://github.com/CharlesMburu-TechMastery/SDG-Aligned-Thinking)** — Ethical tech prototypes → scalable ventures for equitable futures  
-- **[Systems-Architecture](https://github.com/CharlesMburu-TechMastery/Systems-Architecture)** — Deep dives into scalable, optimized system design  
+- **[Systems-Architecture](https://github.com/CharlesMburu-TechMastery/Systems-Architecture)** — Deep dives into scalable, optimized system design
+- **[AI-ML-Roadmap-Tools](https://github.com/CharlesMburu-TechMastery/Systems-Architecture)**— AI/ML experiments, reusable modules, and ethical pipelines for real-world  
 
 ⭐ All repos emphasize clean code, security, ethics, and real impact in African contexts.
 
