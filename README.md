@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 I'm **Charles Mburu**, a  tech innovator building at the intersection of **AI**, **Cybersecurity**, and **Software Engineering**.  
 
-I design **resilient, scalable, and ethical systems** with real-world impact — especially for **SMEs**, **emerging markets**, and **underserved communities in Africa**.
+I design **resilient, scalable, and ethical systems** with real-world impact , especially for **SMEs**, **emerging markets**, and **underserved communities in Africa**.
 
 **Core Pillars:**
 - 🔐 **Cybersecurity** — Threat modeling, anomaly detection, mobile fraud prevention, deepfake defense
