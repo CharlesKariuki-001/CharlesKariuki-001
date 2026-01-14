@@ -67,13 +67,21 @@ Key focus areas:
 ## 🏆 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlesMburu&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesMburu&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CharlesKariuki-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesKariuki-001&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMburu&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKariuki-001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CharlesKariuki-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&include_orgs=true&hide_border=true" height="180" alt="Stats with Org Contributions" />
+</p>
+
+<p align="center">
+  <i>Stats include contributions to @CharlesMburu-TechMastery organization repos</i>
+</p>>
 
 ---
 
