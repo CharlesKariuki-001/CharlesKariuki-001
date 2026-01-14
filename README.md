@@ -1,47 +1,47 @@
-# Charles Kariuki 👋
-### Architecting Secure, Intelligent Systems for Global Impact 🌍
+# 👋 Charles Mburu | TechMastery
+### Architecting Secure, Ethical, and Intelligent Systems 🌍
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=850&lines=Cybersecurity+%7C+AI+%7C+Software+Engineering;Building+Secure+and+Intelligent+Systems;Ethical.+Impact.+Innovation." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=850&lines=Cybersecurity+%7C+AI+%7C+Software+Engineering;Building+Secure+and+Impactful+Systems;Consistency.+Innovation.+Ethical+Tech." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Charles Kariuki**, a tech innovator at the intersection of **Cybersecurity, AI, and Software Engineering**, building scalable, resilient, and ethical systems for real-world impact.  
+I am **Charles Mburu**, a tech innovator building at the intersection of **AI, Cybersecurity, and Software Engineering**.  
+I specialize in **designing resilient, scalable systems** with real-world impact, focusing on **SMEs and emerging markets in Africa**.  
 
-I focus on:
-- 🔐 **Secure architectures & threat mitigation**  
-- 🤖 **AI-powered detection, predictive models, and anomaly analysis**  
-- 🌱 **Tech for sustainable growth in emerging markets**, particularly African SMEs  
-- 🧠 **Transforming academic knowledge into deployable, high-impact applications**  
+Key focus areas:
 
-I am passionate about **ethical innovation, measurable impact, and hands-on experimentation**, bridging theory with practical solutions.
+- 🔐 **Cybersecurity:** Threat modeling, anomaly detection, mobile fraud prevention  
+- 🤖 **AI & ML:** Predictive analytics, lightweight ML models, secure AI pipelines  
+- 🌱 **Impact-driven tech:** SDG-aligned solutions for African SMEs and underserved communities  
+- 🧩 **Software Engineering:** Full-stack design, clean code, modular, maintainable, and secure systems  
 
 ---
 
-## 🔥 Current Focus
+## 🌟 Current Focus Areas
 
 ### 🤖 AI & ML
-- Real-time anomaly detection models  
-- Predictive analytics for dynamic environments  
-- Bias mitigation and ethical AI deployments  
+- Real-time anomaly detection for financial and network data  
+- Bias mitigation and ethical AI practices  
+- Predictive analytics for SME decision support  
 
 ### 🛡️ Cybersecurity
-- Penetration testing, vulnerability assessments  
-- Threat simulations and defensive architectures  
-- Mobile fraud and SME security solutions  
+- Vulnerability assessment and penetration testing  
+- Simulating threats and testing defenses  
+- Mobile-money fraud prevention and deepfake detection  
 
 ### 🧩 Software Engineering
-- Modular, scalable full-stack applications  
-- Clean code and maintainable deployments  
-- Secure data flows in cloud-native systems  
+- Full-stack apps with **React Native**, FastAPI, and MongoDB  
+- Scalable, modular architectures with clean, documented code  
+- Cloud-native deployments optimized for efficiency  
 
-### 🌍 Impact-Driven Prototypes
-- AI-enhanced tools for sustainability and equity  
-- Systems addressing global challenges in underserved regions  
-- MVPs and prototypes aligned with **SDGs**  
+### 🌍 Impact & African Focus
+- Tools for SMEs, rural businesses, and women-led startups  
+- SDG-aligned solutions: economic growth, industry innovation, and digital equity  
+- Projects designed for low-resource, mobile-first environments  
 
 ---
 
@@ -52,50 +52,75 @@ I am passionate about **ethical innovation, measurable impact, and hands-on expe
   <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,sklearn,matplotlib,pytorch,tensorflow" />
 </p>
 
-### Cloud, DevOps & Essentials
+### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,heroku,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku,githubactions" />
 </p>
 
-### Full-Stack & Security
+### Software & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,docker,kubernetes,git,bash,mongodb,linux" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs,docker,kubernetes,git,bash,mongodb,linux" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-- **AfriSecure-AI:** AI-powered cybersecurity platform protecting African SMEs from mobile fraud and deepfakes.  
-- **SDG-Aligned-Thinking:** Ethical tech solutions mapped to UN Sustainable Development Goals.  
-- **Cybersecurity-Learning:** Personal lab for threat analysis, ethical hacking, and defense simulations.  
-- **AI-ML-Cyber-Intersection:** Hybrid learning of AI/ML with cybersecurity applications.  
-- **Software-Engineering-Portfolio:** Full-stack projects, clean code practices, and deployment workflows.  
-- **Systems-Architecture-Studies:** Study of system layers, optimizations, and scalable architectures.  
-
-> ⭐ Each project demonstrates **practical skills, ethical thinking, and African-focused impact**.
-
----
-
-## 📊 GitHub Stats
+## 🏆 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlesKariuki-001&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesKariuki-001&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CharlesMburu&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesMburu&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKariuki-001&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMburu&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌟 Achievements & Contributions
+## 📊 Contribution Heat Map
 
-- Consistent **open-source contributions** in AI, cybersecurity, and sustainable tech  
-- Collaborations on **ethical AI and security projects**  
-- Building towards certifications like **CEH (Certified Ethical Hacker)** and **AWS Machine Learning**  
-- Ongoing projects with **SDG-aligned impact** for African SMEs  
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=CharlesMburu&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🎖 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CharlesMburu&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📂 Organization & Key Repositories
+
+All **important projects are housed in my organization**: [@CharlesMburu-TechMastery](https://github.com/CharlesMburu-TechMastery)  
+
+**Highlighted Repositories:**
+
+- **AfriSecure-AI:** AI-powered cybersecurity for East African SMEs, fraud prevention, and threat detection  
+- **SDG-Aligned-Thinking:** Ethical tech aligned with UN SDGs for sustainable impact  
+- **Cybersecurity-Learning:** Hands-on cybersecurity projects and threat simulations  
+- **AI-ML-Cyber-Intersection:** Hybrid AI + cybersecurity experiments and models  
+- **Software-Engineering-Portfolio:** Full-stack SE projects, clean code, and deployment patterns  
+- **Systems-Architecture-Studies:** System layers, architecture designs, and optimization practices  
+
+> ⭐ All repositories showcase **practical skills, ethical considerations, and African-focused impact**  
+
+---
+
+## 🌱 Contributions & Community
+
+I actively contribute to **open-source AI, cybersecurity, and ethical tech projects**, including:
+
+- Optimizing ML pipelines and security workflows  
+- Collaborating on SDG-aligned projects  
+- Mentoring and sharing knowledge in emerging tech communities  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
@@ -111,5 +136,5 @@ I am passionate about **ethical innovation, measurable impact, and hands-on expe
 ---
 
 <p align="center">
-  💡 "Engineering for impact: Secure, intelligent, and ethical systems for global change."
+  💡 "Building technology that is ethical, impactful, and African-focused — persistence, purpose, and innovation every day."
 </p>
