@@ -20,7 +20,7 @@ I specialize in designing **resilient digital infrastructure** that solves high-
 
 ---
 
-## 🚀 Featured Project: [Vigilant AI](https://github.com)
+## 🚀 Flagship Project: [Vigilant AI](https://github.com)
 **A real-time, AI-powered fraud detection engine for the African mobile money ecosystem.**
 *   **Core Logic:** FastAPI & Python-based detection of M-Pesa scams and phishing.
 *   **Innovation:** Swahili-localized NLP for "last-mile" user protection.
@@ -60,11 +60,12 @@ I specialize in designing **resilient digital infrastructure** that solves high-
 
 ---
 
-## 📂 Key Ecosystems
-Explore my work across specialized organizations:
+## 📂 Featured Ecosystems
+Explore my technical work across these key repositories:
 
-*   **[VigilantAIAfrica](https://github.com)** — Flagship financial security infrastructure.
-*   **[CharlesMburu-TechMastery](https://github.com)** — Deep dives into AI, Cyber, and Systems Architecture.
+*   **[VigilantAIAfrica](https://github.com)** — Full-stack financial security infrastructure.
+*   **[AI-ML-Roadmap](https://github.com)** — Practical experiments in predictive modeling and ethical AI.
+*   **[Cybersecurity-Labs](https://github.com)** — Hands-on vulnerability assessment and network defense.
 
 ---
 
@@ -81,4 +82,3 @@ I am currently **Open for Hire** and interested in high-impact collaborations in
 <p align="center">
   <i>"Building technology that is ethical, impactful, and proudly African."</i>
 </p>
-
