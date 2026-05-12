@@ -19,8 +19,8 @@
 
 ## Who I am
 
-I am a Computer Science student from Nairobi building an
-AI-powered fraud detection tool for African mobile money —
+I am a cs student building an
+AI-powered fraud detection tool for African mobile money,
 specifically the M-Pesa ecosystem that millions of Kenyans
 depend on every day.
 
@@ -36,7 +36,7 @@ This GitHub is the proof of work.
 ## What I am building → Vigilant AI
 
 > **A fraud detection system that protects ordinary Africans
-> from mobile money scams — using AI, plain language
+> from mobile money scams, using AI, plain language
 > explanations, and support for Swahili and English.**
 
 Most fraud detection tools were built for Western banking systems.
@@ -112,8 +112,8 @@ No fake stack padding.
 Every week I post what I shipped, what broke, and what I learned.
 No highlight reel. Just the real build.
 
-- **X:** @KariukiBuilds — daily scam alerts and build updates
-- **LinkedIn:** Charles Kariuki — longer breakdowns and milestones
+- **X:** @KariukiBuilds —> daily scam alerts and build updates
+- **LinkedIn:** Charles Kariuki —>  longer breakdowns and milestones
 - **This repo:** the commit history tells the real story
 
 If you are building something in AI, security, or African fintech,
@@ -132,8 +132,7 @@ I want to connect with you.
 
 <div align="center">
 
-*"I did not start with money or a team. I started with a problem
-that made me angry enough to build the solution."*
+*" I started with a problem that made me angry enough to build the solution."*
 
 **— Charles Kariuki, Nairobi 2026**
 
