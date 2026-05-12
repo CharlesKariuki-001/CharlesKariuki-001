@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Building+AI+that+fights+fraud+in+Africa;One+scam+caught+is+one+person+protected;CS+Student.+Nairobi.+Building+in+public.)
 
 # Charles Kariuki
-### AI Security Engineer in Progress · Founder of Vigilant AI · Nairobi, Kenya 🇰🇪
+### AI Security Engineer in Progress · Vigilant AI · Nairobi, Kenya 🇰🇪
 
 </div>
 
@@ -12,8 +12,8 @@
 
 ## Who I am
 
-I'm a 23-year-old Computer Science student from Nairobi building an 
-AI-powered fraud detection tool for African mobile money — specifically 
+I'm a  Computer Science student building an 
+AI-powered fraud detection tool for African mobile money, specifically 
 the M-Pesa ecosystem that millions of Kenyans depend on every day.
 
 I'm not building this because it looks good on a CV.
@@ -62,6 +62,4 @@ I update this table as I ship.
 
 ---
 
-## Tools I'm actually using right now
 
-```python
