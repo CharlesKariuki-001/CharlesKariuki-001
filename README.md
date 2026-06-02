@@ -1,139 +1,108 @@
-<!-- Header -->
-<div align="center">
+# 🛡️ Vigilant AI
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=1000&color=F5A623&center=true&vCenter=true&width=650&lines=Fighting+Financial+Fraud+with+AI;AI+Security+Engineer+%7C+Nairobi%2C+Kenya;Vigilant+AI+%E2%80%94+Built+for+Africa%2C+Built+to+Last;Charles+Kariuki+%7C+Building+in+Public)
+**AI-Powered Fraud Detection for African Mobile Money**
 
-# Charles Kariuki
-### AI Security Engineer · Vigilant AI · Nairobi, Kenya 🇰🇪
+[![GitHub stars](https://img.shields.io/github/stars/CharlesKariuki-001/vigilant-ai?style=social)](https://github.com/CharlesKariuki-001/vigilant-ai)
+[![GitHub forks](https://img.shields.io/github/forks/CharlesKariuki-001/vigilant-ai?style=social)](https://github.com/CharlesKariuki-001/vigilant-ai)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 
-<a href="https://twitter.com/KariukiBuilds" target="_blank">
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=F5A623" alt="X"/></a>
-<a href="https://linkedin.com/in/charles-kariuki" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/charlesKariuki-001" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=F5A623" alt="GitHub"/></a>
+![Vigilant AI Demo](https://via.placeholder.com/800x400/1a365d/ffffff?text=VIGILANT+AI+—+Protecting+Kenyan+Mobile+Money)
 
-</div>
+*(Live demo coming soon — currently in active development)*
 
----
+## 🚀 Tagline
 
-## Who I am
+**Protecting everyday Kenyans from M-Pesa scams with intelligent, explainable AI — built in Kenya, for Africa.**
 
-I am a cs student building an
-AI-powered fraud detection tool for African mobile money,
-specifically the M-Pesa ecosystem that millions of Kenyans
-depend on every day.
+## 👋 About Me
 
-I am not building this because it looks good on a CV.
-I am building it because people I know have lost real money
-to scams that better technology could have caught.
+I am a Computer Science student and aspiring **AI Security Engineer** with a strong foundation in **cybersecurity**, **networking** (CCNA certified), and **software development**.
 
-I chose the long, ethical, hard road.
-This GitHub is the proof of work.
+Passionate about solving real problems that matter, I am building **Vigilant AI** — a layered fraud detection system designed specifically for African mobile money platforms. This project combines my skills in Python, machine learning, and secure systems to combat the growing threat of mobile financial fraud that affects millions of ordinary users across the continent.
 
----
+## 📋 What is Vigilant AI?
 
-## What I am building → Vigilant AI
+Vigilant AI is an intelligent, context-aware fraud detection system focused on **M-Pesa** and other African mobile money services.
 
-> **A fraud detection system that protects ordinary Africans
-> from mobile money scams, using AI, plain language
-> explanations, and support for Swahili and English.**
+Unlike Western-centric tools, Vigilant AI understands local realities: Swahili urgency language, M-Pesa transaction patterns, SIM swap attacks, and social engineering tactics common in Kenya and East Africa.
 
-Most fraud detection tools were built for Western banking systems.
-They do not understand M-Pesa flows, Swahili scam patterns,
-SIM swap fraud, or the reality of low-bandwidth African networks.
+### Current Status (Phase 1)
+- ✅ **Rule Engine** with regex pattern matching for common scam types
+- ✅ **Streamlit Web App** for easy SMS analysis
+- 🔄 Collecting real Kenyan scam datasets
+- 🚀 Deployed prototype (link coming soon)
 
-Vigilant AI is built specifically for this gap.
+**Core Value Proposition:**
+- Instant fraud risk scoring with plain English explanations
+- SHAP-powered explainability (coming in Phase 2)
+- Designed for low-bandwidth environments
+- Open-source foundation for community collaboration
 
-**What it does:**
-- Detects and flags M-Pesa scam messages in real time
-- Explains why something is suspicious in plain language
-- Works in both English and Swahili
-- Built to run on low-bandwidth, low-spec devices
+## 🗺️ Development Roadmap
 
-**Current status:** 🔨 Building Phase 1 — Rule Engine and Web App
+| Phase | Timeline     | Focus                    | Status       | Key Deliverables                          |
+|-------|--------------|--------------------------|--------------|-------------------------------------------|
+| **1** | Months 1-2   | Rule Engine + UI         | 🟢 In Progress | Regex patterns, Streamlit app, deployment |
+| **2** | Months 3-6   | ML Classifier            | 🔴 Planned     | scikit-learn model, SHAP explanations     |
+| **3** | Months 5-9   | AI Agents                | 🔴 Planned     | Investigation + Threat Intelligence Agents|
+| **4** | Months 7-12  | Backend & API            | 🔴 Planned     | FastAPI, PostgreSQL, public API           |
+| **5** | Year 2       | SaaS Product             | 🔴 Planned     | Freemium model, dashboards, enterprise    |
 
-**Project repo:** [vigilant-ai](https://github.com/charlesKariuki-001/vigilant-ai)
+## 🛠️ Current Tech Stack
 
----
+**Languages & Frameworks**
+- **Python 3.10+**
+- **Core:** scikit-learn, pandas, re (regex)
+- **Frontend:** Streamlit
+- **Deployment:** Streamlit Community Cloud, GitHub
+- **Tools:** Git, Label Studio
 
-## The build roadmap
+**Planned**
+- FastAPI, SHAP, PostgreSQL, LangChain, Hugging Face
 
-| Phase | What I am building | Status |
-|-------|-------------------|--------|
-| Phase 1 | Rule-based M-Pesa scam detector and Streamlit web app | 🔨 In progress |
-| Phase 2 | Machine learning model and SHAP explainability | ⏳ Next |
-| Phase 3 | AI investigation agents and FastAPI backend | ⏳ Planned |
-| Phase 4 | Freelance clients and monetization | ⏳ Planned |
-| Phase 5 | SaaS product and Masters preparation | ⏳ Long term |
+**Additional Skills Applied**
+- Cybersecurity & threat modeling
+- Data collection & synthetic data generation
+- Explainable AI (XAI)
+- Secure software design
 
-I update this table as I ship.
+## 📊 GitHub Activity
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlesKariuki-001&show_icons=true&theme=radical)
 
-## Tools I am actually using right now
+*(Contributions and stats update as I ship weekly)*
 
-```python
-current_stack = {
-    "language"        : "Python",
-    "ML"              : ["scikit-learn", "XGBoost", "SHAP"],
-    "frontend"        : "Streamlit",
-    "backend"         : "FastAPI",
-    "data"            : ["pandas", "numpy"],
-    "deployment"      : "Streamlit Cloud → Render",
-    "version_control" : "Git + GitHub",
-    "learning"        : ["LangChain", "HuggingFace", "Docker"]
-}
-```
+## 🌍 Building in Public
 
-I only list tools I have actually touched.
-No fake stack padding.
+I document the entire journey transparently:
+- Weekly progress updates on [LinkedIn](https://linkedin.com/in/charles-mburu) and [X](https://twitter.com/KariukiBuilds__)
+- Technical decisions, challenges, and lessons learned
+- Dataset collection methodology
 
----
+This project serves as both a **learning vehicle** and a strong **portfolio piece** demonstrating production-grade AI engineering skills.
 
-## GitHub activity
+## 🤝 What I'm Looking For
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlesKariuki-001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=F5A623&icon_color=F5A623&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-</p>
+- **Collaborators** — especially in African NLP, fraud detection, or dataset labeling
+- **Feedback** — test the prototype and share your thoughts
+- **Mentors** — AI/ML engineers and cybersecurity professionals
+- **Freelance Opportunities** — Python, ML, FastAPI, or fraud detection work
+- **Beta Testers** — Kenyan developers and fintech enthusiasts
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CharlesKariuki-001&theme=dark&hide_border=true&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&background=0d1117&dates=ffffff" alt="GitHub Streak" />
-</p>
+Feel free to open issues, submit PRs, or reach out!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKariuki-001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=F5A623&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-</p>
+## 💬 Final Words
+
+> "Every shilling stolen from a boda boda rider is a shilling that does not go into school fees, savings, or business growth."
+
+**Vigilant AI** exists to protect the most vulnerable users in Africa's digital economy — one intelligent detection at a time.
 
 ---
 
-## I build in public
+**Charles Kariuki**  
+*Computer Science Student & AI Security Engineer*  
+Building Vigilant AI • Open to opportunities
 
-Every week I post what I shipped, what broke, and what I learned.
-No highlight reel. Just the real build.
-
-- **X:** @KariukiBuilds —> daily scam alerts and build updates
-- **LinkedIn:** Charles Kariuki —>  longer breakdowns and milestones
-- **This repo:** the commit history tells the real story
-
-If you are building something in AI, security, or African fintech,
-I want to connect with you.
-
----
-
-## What I am looking for
-
-- 🤝 Collaborators who care about fraud in African fintech
-- 💼 Freelance ML and Python projects to fund the build
-- 🎓 Mentors in AI security or East African tech
-- 📢 Feedback from anyone who has experienced mobile money fraud
-
----
-
-<div align="center">
-
-*" I started with a problem that made me angry enough to build the solution."*
-
-**— Charles Kariuki, Nairobi 2026**
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/charles-mburu)
+[![X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://twitter.com/KariukiBuilds__)
