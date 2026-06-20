@@ -1,5 +1,4 @@
 # 🛡️ Vigilant AI
-
 **AI-Powered Fraud Detection for African Mobile Money**
 
 [![GitHub stars](https://img.shields.io/github/stars/CharlesKariuki-001/vigilant-ai?style=social)](https://github.com/CharlesKariuki-001/vigilant-ai)
@@ -9,7 +8,9 @@
 
 ![Vigilant AI Demo](https://via.placeholder.com/800x400/1a365d/ffffff?text=VIGILANT+AI+—+Protecting+Kenyan+Mobile+Money)
 
-*(Live demo coming soon — currently in active development)*
+### 🚀 **Live Demo**
+
+**[Try Vigilant AI Now →](https://vigilantai-o7udfkd7swt5f2sywwemvy.streamlit.app/)**
 
 ## 🚀 Tagline
 
@@ -43,8 +44,8 @@ Unlike Western-centric tools, Vigilant AI understands local realities: Swahili u
 
 | Phase | Timeline     | Focus                    | Status       | Key Deliverables                          |
 |-------|--------------|--------------------------|--------------|-------------------------------------------|
-| **1** | Months 1-2   | Rule Engine + UI         | 🟢 In Progress | Regex patterns, Streamlit app, deployment |
-| **2** | Months 3-6   | ML Classifier            | 🔴 Planned     | scikit-learn model, SHAP explanations     |
+| **1** | Months 1-2   | Rule Engine + UI         | ✅ Complete | Regex patterns, Streamlit app, deployment |
+| **2** | Months 3-6   | ML Classifier            | 🟢 In Progress| scikit-learn model, SHAP explanations     |
 | **3** | Months 5-9   | AI Agents                | 🔴 Planned     | Investigation + Threat Intelligence Agents|
 | **4** | Months 7-12  | Backend & API            | 🔴 Planned     | FastAPI, PostgreSQL, public API           |
 | **5** | Year 2       | SaaS Product             | 🔴 Planned     | Freemium model, dashboards, enterprise    |
