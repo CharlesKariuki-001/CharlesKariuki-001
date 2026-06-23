@@ -20,7 +20,7 @@ Zeek-based sensor + ML anomaly detection for SIM swap, API abuse, C2 beaconing,
 and mobile money network-layer threats. Feeds directly into Vigilant AI.
 
 **[AI Security Red Team Lab](https://github.com/CharlesKariuki-001/ai-security-engineering)**
-12-month pipeline learning how to attack and defend AI systems.
+pipeline learning how to attack and defend AI systems.
 Currently: Block 1 — Adversarial ML foundations.
 
 ---
