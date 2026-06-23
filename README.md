@@ -10,16 +10,19 @@ mobile money fraud, and learning how attackers think at the network level.
 ### 🚀 What I'm Building
 
 **[Vigilant AI](https://github.com/CharlesKariuki-001/VigilantAI)**
+
 AI-powered fraud detection for African mobile money.
 Rule engine + ML classifier + SHAP explainability.
 → [Live Demo](https://vigilantai-o7udfkd7swt5f2sywwemvy.streamlit.app/)
 
 **[AfricaNDR](https://github.com/CharlesKariuki-001/africandr)**
+
 AI-powered Network Detection & Response for African fintech infrastructure.
 Zeek-based sensor + ML anomaly detection for SIM swap, API abuse, C2 beaconing,
 and mobile money network-layer threats. Feeds directly into Vigilant AI.
 
 **[AI Security Red Team Lab](https://github.com/CharlesKariuki-001/ai-security-engineering)**
+
 pipeline learning how to attack and defend AI systems.
 Currently: Block 1 — Adversarial ML foundations.
 
