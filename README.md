@@ -5,7 +5,7 @@
 I build **secure, transparent, and impactful AI systems** that protect everyday Africans from digital threats — especially in the mobile money ecosystem.
 
 Currently obsessed with two missions:
-- Protecting vulnerable users (boda boda riders, small traders, families) from mobile money fraud that wipes out life savings.
+- Protecting vulnerable users from mobile money fraud that wipes out life savings.
 - Mastering adversarial thinking at both the model and network layers.
 
 ---
@@ -13,15 +13,18 @@ Currently obsessed with two missions:
 ### 🚀 Featured Projects
 
 **🔥 [Vigilant AI](https://github.com/CharlesKariuki-001/VigilantAI)**  
+
 AI-powered fraud detection system built specifically for African mobile money (M-Pesa & similar).  
 **Core Features**: Rule engine + Machine Learning classifier + **SHAP explainability** (no black-box decisions).  
 → **[Live Demo](https://vigilantai-o7udfkd7swt5f2sywwemvy.streamlit.app/)**
 
 **🌐 [AfricaNDR](https://github.com/CharlesKariuki-001/africandr)**  
+
 Network Detection & Response platform tailored for African fintech infrastructure.  
 Uses **Zeek** sensors + custom parsers to detect SIM swaps, API abuse, C2 beaconing, and mobile money-specific network threats. Feeds live telemetry into Vigilant AI.
 
 **🛡️ [AI Security Red Team Lab](https://github.com/CharlesKariuki-001/ai-security-engineering)**  
+
 Hands-on offensive pipeline for learning adversarial machine learning.  
 **Current Focus**: Block 1 — Building **AdversarialForge** (foundations of attacking & defending AI models).
 
@@ -42,9 +45,9 @@ Hands-on offensive pipeline for learning adversarial machine learning.
 
 ---
 
-### 📈 Current Progress (Mid-2026)
+### 📈 Current Progress 
 
-- **Vigilant AI**: Phase 2 — Integrating full ML classifier + SHAP explainability layer
+- **Vigilant AI**:  — Integrating full ML classifier + SHAP explainability layer
 - **AfricaNDR**: Building custom Zeek parsers and feature extraction pipelines
 - **Red Team Lab**: Completing foundational adversarial ML attacks (AdversarialForge)
 - Weekly public updates on X — real builds, real failures, real learning
