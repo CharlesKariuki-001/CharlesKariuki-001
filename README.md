@@ -13,18 +13,14 @@ Currently obsessed with two missions:
 ### 🚀 Featured Projects
 
 **🔥 [Vigilant AI](https://github.com/CharlesKariuki-001/VigilantAI)**  
-
 AI-powered fraud detection system built specifically for African mobile money (M-Pesa & similar).  
-**Core Features**: Rule engine + Machine Learning classifier + **SHAP explainability** (no black-box decisions).  
-→ **[Live Demo](https://vigilantai-o7udfkd7swt5f2sywwemvy.streamlit.app/)**
+**Core Features**: Rule engine + Machine Learning classifier + **SHAP explainability** → **[Live Demo](https://vigilantai-o7udfkd7swt5f2sywwemvy.streamlit.app/)**
 
 **🌐 [AfricaNDR](https://github.com/CharlesKariuki-001/africandr)**  
-
 Network Detection & Response platform tailored for African fintech infrastructure.  
 Uses **Zeek** sensors + custom parsers to detect SIM swaps, API abuse, C2 beaconing, and mobile money-specific network threats. Feeds live telemetry into Vigilant AI.
 
 **🛡️ [AI Security Red Team Lab](https://github.com/CharlesKariuki-001/ai-security-engineering)**  
-
 Hands-on offensive pipeline for learning adversarial machine learning.  
 **Current Focus**: Block 1 — Building **AdversarialForge** (foundations of attacking & defending AI models).
 
