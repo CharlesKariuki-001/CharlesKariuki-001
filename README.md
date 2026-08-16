@@ -2,7 +2,7 @@
 
 **Aspiring AI Security Engineer & Computer Science Student at Mount Kenya University (MKU)**
 
-I build **secure, transparent, and impactful AI systems** that protect everyday Africans from digital threats — especially in the mobile money ecosystem.
+I build **secure, transparent, and impactful AI systems** that protect everyday Africans from digital threats especially in the mobile money ecosystem.
 
 Currently obsessed with two missions:
 - Protecting vulnerable users from mobile money fraud that wipes out life savings.
