@@ -57,4 +57,4 @@ Email: charlesmburukariuki@gmail.com
 
 ---
 
-"Every shilling stolen from a boda boda rider is a shilling that does not go into school fees, savings, or business growth."
+
