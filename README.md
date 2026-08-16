@@ -1,89 +1,60 @@
-# Hey, I'm Charles Kariuki 👋
+# Charles Kariuki
 
-**Aspiring AI Security Engineer & Computer Science Student at Mount Kenya University (MKU)**
+Computer Science student at Mount Kenya University, based in Nairobi. I build AI systems that protect ordinary people from fraud, and I spend the rest of my time learning how to break those same systems on purpose, so someone else does not break them for free.
 
-I build **secure, transparent, and impactful AI systems** that protect everyday Africans from digital threats especially in the mobile money ecosystem.
+## The problem I am working on
 
-Currently obsessed with two missions:
-- Protecting vulnerable users from mobile money fraud that wipes out life savings.
-- Mastering adversarial thinking at both the model and network layers.
+Mobile money is how most Kenyans move money. It is also where most fraud happens. Fraud detection tools that exist today were built for Western banks. They understand a stolen credit card number. They do not understand a fake M-Pesa reversal message written in Swahili, or a SIM swap attack that hijacks a phone line before a single transaction even happens. That gap is not small. Kenya lost over 800 billion shillings to mobile banking fraud in 2024 alone, and the tools built to catch it were never designed for this market.
 
----
+Everything below is one connected effort to close that gap, properly, and to build the skills that make it trustworthy rather than a guess.
 
-### 🚀 Featured Projects
+## How the pieces fit together
 
-**🔥 [Vigilant AI](https://github.com/CharlesKariuki-001/VigilantAI)**  
-AI-powered fraud detection system built specifically for African mobile money (M-Pesa & similar).  
-**Core Features**: Rule engine + Machine Learning classifier + **SHAP explainability** → **[Live Demo](https://vigilantai-o7udfkd7swt5f2sywwemvy.streamlit.app/)**
+**Vigilant AI** is the actual product. It reads a suspicious message and tells you, in plain language, whether it looks like fraud and why.
 
-**🌐 [AfricaNDR](https://github.com/CharlesKariuki-001/africandr)**  
-Network Detection & Response platform tailored for African fintech infrastructure.  
-Uses **Zeek** sensors + custom parsers to detect SIM swaps, API abuse, C2 beaconing, and mobile money-specific network threats. Feeds live telemetry into Vigilant AI.
+**AI Security Engineering** is where I learn to attack Vigilant AI on purpose, so I find its weaknesses before someone else does. Every technique I learn gets tested directly against my own fraud classifier.
 
-**🛡️ [AI Security Red Team Lab](https://github.com/CharlesKariuki-001/ai-security-engineering)**  
-Hands-on offensive pipeline for learning adversarial machine learning.  
-**Current Focus**: Block 1 — Building **AdversarialForge** (foundations of attacking & defending AI models).
+**AfricaNDR** watches network traffic instead of messages. Some fraud shows up before a scam message is even sent, in patterns like SIM swap requests or unusual API activity. AfricaNDR is built to catch that layer and feed what it finds into Vigilant AI.
 
----
+**Python Automation** is separate work. It is how I fund the build, and it keeps my general engineering skills sharp: fixing broken code, pulling data from websites, connecting business systems together.
 
-### 🛠️ Tech Stack
+If you only remember one thing: Vigilant AI is the product, AI Security Engineering makes it harder to fool, AfricaNDR gives it a second set of eyes at the network level, and Python Automation is the income that keeps the lights on while all of that gets built.
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+## Projects
 
-**Security & Networking**  
-**Zeek** • **Scapy** • Docker • Network Forensics
+### Vigilant AI
+Fraud detection for African mobile money. Reads a suspicious SMS or message and returns a plain language explanation of why it looks like fraud or why it does not.
+Currently: rule engine and machine learning classifier both live, 98.4% precision and 100% recall on test data, trained on over two thousand real pattern messages.
+[Live demo](https://vigilantai-o7udfkd7swt5f2sywwemvy.streamlit.app/) · [Repository](https://github.com/CharlesKariuki-001/VigilantAI)
 
-**ML Ops & Explainability**  
-**SHAP** • Streamlit • Pandas • SQL • MLflow (in progress)
+### AI Security Engineering
+A twelve month program where I learn to attack and defend AI systems, using Vigilant AI as the real target throughout.
+Currently: Block 1 of 4, building AdversarialForge, the project that proves a model can be tricked by tiny, deliberate changes to a message.
+[Repository](https://github.com/CharlesKariuki-001/ai-security-engineering)
 
----
+### AfricaNDR
+Network level threat detection for African fintech infrastructure. Watches raw traffic for signs of SIM swap attempts, API abuse, and other attacks that happen before a fraudulent message is ever sent.
+Currently: log parsing and traffic reading built, feature extraction and the anomaly detection model in progress.
+[Repository](https://github.com/CharlesKariuki-001/africandr)
 
-### 📈 Current Progress 
+### Python Automation
+Freelance work built around three specific, common problems: getting data out of a website, fixing broken Python code, and connecting two business tools that do not talk to each other.
+[Repository](https://github.com/CharlesKariuki-001/Python-Automation)
 
-- **Vigilant AI**:  — Integrating full ML classifier + SHAP explainability layer
-- **AfricaNDR**: Building custom Zeek parsers and feature extraction pipelines
-- **Red Team Lab**: Completing foundational adversarial ML attacks (AdversarialForge)
-- Weekly public updates on X — real builds, real failures, real learning
+## Tools I use
 
----
+Python, PyTorch, scikit-learn, XGBoost, SHAP, Zeek, Streamlit, FastAPI, Docker, pandas, SQL.
 
-### 📊 GitHub Activity
+## Open to
 
-![CharlesKariuki-001's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlesKariuki-001&show_icons=true&theme=radical&hide_border=true)
+Remote AI security or machine learning internships and junior roles. People testing Vigilant AI, especially small merchants or fintech teams willing to give honest feedback. Anyone who knows Zeek scripting or adversarial machine learning and wants to compare notes.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesKariuki-001&layout=compact&theme=radical&hide_border=true)
+## Find me
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CharlesKariuki-001&theme=radical&hide_border=true)
-
-### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=CharlesKariuki-001&theme=radical&column=4&margin-w=15)
+LinkedIn: [Charles Mburu](https://ke.linkedin.com/in/charles-mburu-838965382)
+X: [@KariukiBuilds__](https://x.com/KariukiBuilds__)
+Email: charlesmburukariuki@gmail.com
 
 ---
 
-### 🤝 Open To Collaboration
-
-- **Remote AI Security / ML Engineering internships & junior roles**
-- Beta testers for Vigilant AI (especially small merchants & fintech teams)
-- Contributors familiar with Zeek scripting, adversarial ML, or MLOps
-- Mentors in AI Security, Fintech Defense, or Network Security
-
-**Feel free to reach out** — I’m always excited to learn from experienced engineers.
-
----
-
-### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/charles-mburu-838965382)
-[![X](https://img.shields.io/badge/X-@KariukiBuilds__-000000?style=flat&logo=x&logoColor=white)](https://x.com/KariukiBuilds__)
-[![Email](https://img.shields.io/badge/Email-charlesmburu.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:charlesmburu.dev@gmail.com)
-
----
-
-> **"Every shilling stolen from a boda boda rider is a shilling that does not go into school fees, savings, or business growth."**
-
----
-
-**Tech for Good | SDG Advocate | Building in Public**
+"Every shilling stolen from a boda boda rider is a shilling that does not go into school fees, savings, or business growth."
