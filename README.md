@@ -1,6 +1,6 @@
 # Charles Kariuki
 
-Computer Science student at Mount Kenya University, based in Nairobi. I build AI systems that protect ordinary people from fraud, and I spend the rest of my time learning how to break those same systems on purpose, so someone else does not break them for free.
+I build AI systems that protect ordinary people from fraud, and I spend the rest of my time learning how to break those same systems on purpose, so someone else does not break them for free.
 
 ## The problem I am working on
 
